@@ -23,11 +23,11 @@ function Contact() {
                     <div className={styles.input_group}>
                         <div>
                             <label htmlFor="first name">First Name</label>
-                            <input type="text" placeholder="eg. Pro"/>
+                            <input type="text" placeholder="eg. Thanadech"/>
                         </div>
                         <div>
                             <label htmlFor="last name">Last Name</label>
-                            <input type="text" placeholder="eg. Gram"/>
+                            <input type="text" placeholder="eg. Phiwkhao"/>
                         </div>
                     </div>
                     <label htmlFor="email address">Email Address</label>

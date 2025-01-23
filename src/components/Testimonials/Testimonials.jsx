@@ -16,7 +16,7 @@ function Testimonials() {
             </div>
             <div className={styles.testi_items}>
                 <p>
-                "โปรแกรมเป็นคนที่มีทักษะด้านการเขียนโปรแกรมที่ยอดเยี่ยมและสร้างสรรค์สุดๆ เขามักจะเสนอวิธีแก้ปัญหาที่น่าสนใจและช่วยให้ทีมทำงานได้อย่างมีประสิทธิภาพ"
+                "โปรแกรมเป็นบุคคลที่มีทักษะด้านการพัฒนาโปรแกรมอย่างยอดเยี่ยมและเต็มไปด้วยความคิดสร้างสรรค์ เขามักนำเสนอโซลูชันที่แปลกใหม่"
                 </p>
                 <img src="https://images.unsplash.com/photo-1489011397388-494518edf378?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z2FtZSUyMHdpbmR8ZW58MHx8MHx8fDA%3D" alt="" />
                 <h4>Jett</h4>
@@ -24,7 +24,7 @@ function Testimonials() {
             </div>
             <div className={styles.testi_items}>
                 <p>
-                "โปรแกรมเป็นคนที่มีทักษะด้านการเขียนโปรแกรมที่ยอดเยี่ยมและสร้างสรรค์สุดๆ เขามักจะเสนอวิธีแก้ปัญหาที่น่าสนใจและช่วยให้ทีมทำงานได้อย่างมีประสิทธิภาพ"
+                "โปรแกรมมีความสามารถที่โดดเด่นในการแก้ไขปัญหาที่ซับซ้อนด้วยวิธีการที่สร้างสรรค์และมีประสิทธิภาพ"
                 </p>
                 <img src="https://images.unsplash.com/photo-1659437191722-c30c7c780d55?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGRldmlsfGVufDB8fDB8fHww" alt="" />
                 <h4>Murad</h4>
