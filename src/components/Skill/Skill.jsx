@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './Skill.module.css'
-import { FaSquareJs, FaPython, FaHtml5, FaReact, FaNode } from 'react-icons/fa6'
+import { FaPython, FaHtml5, FaReact, FaNode } from 'react-icons/fa6'
+import { RiPhpLine } from "react-icons/ri";
 
 function Skill() {
   return (
@@ -8,7 +9,7 @@ function Skill() {
       <h3 className={styles.skill_title}>My Skill Set</h3>
       <ul className={styles.skill_list}>
         <li>
-            <FaSquareJs />
+            <RiPhpLine />
         </li>
         <li>
             <FaPython />
