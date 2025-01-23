@@ -1,0 +1,7 @@
+.Footer_cs {
+    height: 60px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
