@@ -9,14 +9,14 @@ function Contact() {
             <div className={styles.contact_info}>
                 <h3>Get in touch</h3>
                 <p className={styles.contact_desc}>
-                    ข้อความมมม
+                    ประเทศไทย ปทุมธานี คลองหลง
                 </p>
                 <p className={styles.contact_address}>
-                    123 main streat <br/>
+                    Klongsam road <br/>
                     bangkok thailand
                 </p>
-                <p><FaPhone /> (+66) 98 555 1234</p>
-                <p>< FaEnvelope /> support@site.com</p>
+                <p><FaPhone /> (+66) 080 456 9223</p>
+                <p>< FaEnvelope /> pro.thanadech@gmail.com</p>
             </div>
             <div className={styles.contact_form}>
                 <form action="">

@@ -11,21 +11,21 @@ function Services() {
             <FaCode />
             <h4>Web Development</h4>
             <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet in optio architecto expedita amet possimus laudantium. Magni eaque soluta voluptas.
+                Build modern, responsive websites tailored to your needs using the latest technologies.
             </p>
         </div>
         <div className={styles.services_items}>
             <FaPaintbrush />
             <h4>Web Ddesign</h4>
             <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet in optio architecto expedita amet possimus laudantium. Magni eaque soluta voluptas.
+                Craft visually appealing and user-friendly designs that leave lasting impressions.
             </p>
         </div>
         <div className={styles.services_items}>
             <FaDesktop />
             <h4>Front-end Consulting</h4>
             <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet in optio architecto expedita amet possimus laudantium. Magni eaque soluta voluptas.
+                Optimize your front-end performance and enhance your user experience with expert guidance.
             </p>
         </div>
       </div>
